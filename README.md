@@ -57,7 +57,8 @@ Repository hosting a series of educational workshops at the University of Florid
   </tr>
   <tr>
     <td><a href="./Intro_DSP/">Introduction to Digital Signal Processing</a></td>
-    <td><a href="./Intro_DSP/Intro_DSP/">Introduction to Signal Processing</a></td>
+    <td><a href="./Intro_DSP/Foundations_of_Signal_Processing_1.ipynb">Introduction to Signal Processing Theory</a></td>
+    <td><a href="./Intro_DSP/Intro_DSP/">Introduction to Filter Design</a></td>
     <td><a href="https://github.com/Jibby2k1">Raul</a></td>
   </tr>
   <tr>
