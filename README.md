@@ -82,6 +82,11 @@ Repository hosting a series of educational workshops at the University of Florid
     <td><a href="./Intro_Mach_Learn/Intro_DL/">Introduction to Deep Learning</a></td>
     <td><a href="https://github.com/Jibby2k1">Raul</a></td>
   </tr>
+  <tr>
+    <td rowspan="2"><a href="./Intro_DL_4_Physics/">Introduction to Physics Infromed Machine Learning</a></td>
+    <td><a href="./Intro_DL_4_Physics/Intro_ML/">Introduction to PyTorch</a></td>
+    <td><a href="https://github.com/Jibby2k1">Awwab</a></td>
+  </tr>
 </table>
 
 ## How to Contribute
